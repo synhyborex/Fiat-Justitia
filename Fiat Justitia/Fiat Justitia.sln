@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiat Justitia", "Fiat Justi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40CBE170-98D1-4C7A-87C7-AA6E4CA165DD}"
 	ProjectSection(SolutionItems) = preProject
-		README.txt = README.txt
+		..\README.txt = ..\README.txt
 	EndProjectSection
 EndProject
 Global
