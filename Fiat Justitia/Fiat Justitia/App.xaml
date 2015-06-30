@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Fiat_Justitia.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Fiat_Justitia"
+    RequestedTheme="Light">
+
+</Application>
